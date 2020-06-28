@@ -1,0 +1,29 @@
+/*selctor{
+	property:value;
+}*/
+h1{
+	color: yellow;
+	background-color: black;
+	text-align: center;
+	border: 5px solid yellow ;
+	cursor: pointer;
+}
+p {
+	color:blue;
+	text-align: center;
+	background-color: black;
+}
+h2{
+	color:green;
+	background-color: black;
+	text-align: center;
+	border: 5px solid yellow;
+}
+label{
+	color: #A28339;
+}
+footer{
+	text-align: center;
+}
+.boxmodel{border:5px solid black;
+text-align: center;}
